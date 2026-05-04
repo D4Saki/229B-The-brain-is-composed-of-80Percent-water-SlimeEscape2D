@@ -5,6 +5,7 @@ public class HP : MonoBehaviour
     public int maxHealth = 3;
     int currentHealth;
     public HeartUI HeartUI;
+    public Transform respawnPoint;
 
     void Start()
     {
@@ -21,13 +22,16 @@ public class HP : MonoBehaviour
 
         if (currentHealth <= 0)
         {
-            Die();
+            Respawn();
         }
     }
 
-    void Die()
+    void Respawn()
     {
-        Debug.Log("Player Dead");
-        Destroy(gameObject);
+        transform.position = respawnPoint.position;
+        
+        currentHealth = maxHealth;
+
+        Debug.Log("Respawn!");
     }
 }
