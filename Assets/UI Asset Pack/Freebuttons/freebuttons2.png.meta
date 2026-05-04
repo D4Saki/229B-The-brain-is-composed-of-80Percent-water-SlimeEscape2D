@@ -1,76 +1,103 @@
 fileFormatVersion: 2
-guid: 2bec9b20c17a81f4587e252962838ddd
+guid: 1d51432bc7f4019458b2a83870b62571
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -337351728639113470
-    second: free_0
+      213: -1572581450591566368
+    second: freebuttons2_0
   - first:
-      213: -4965553739594148211
-    second: free_1
+      213: 5347564824689686261
+    second: freebuttons2_1
   - first:
-      213: -2491624659041743377
-    second: free_2
+      213: 8088709233694997881
+    second: freebuttons2_2
   - first:
-      213: -6030434150411226544
-    second: free_3
+      213: 2035970164575465437
+    second: freebuttons2_3
   - first:
-      213: -3755228748222821808
-    second: free_4
+      213: -5626256430255437534
+    second: freebuttons2_4
   - first:
-      213: -5501630112818903837
-    second: free_5
+      213: -7036053879214894102
+    second: freebuttons2_5
   - first:
-      213: 5306446809137559511
-    second: free_6
+      213: 4744979183817382814
+    second: freebuttons2_6
   - first:
-      213: -1007682015698450451
-    second: free_7
+      213: -2167711727258961227
+    second: freebuttons2_7
   - first:
-      213: -6991641134031357242
-    second: free_8
+      213: -5549678383182560730
+    second: freebuttons2_8
   - first:
-      213: -6160415447981303602
-    second: free_9
+      213: 329043352927386631
+    second: freebuttons2_9
   - first:
-      213: 6896417841489334675
-    second: free_10
+      213: 2661830405117713476
+    second: freebuttons2_10
   - first:
-      213: 5575871735612188355
-    second: free_11
+      213: 3676721139253171927
+    second: freebuttons2_11
   - first:
-      213: 4308412447922339816
-    second: free_12
+      213: 3508782827696732225
+    second: freebuttons2_12
   - first:
-      213: -246151368097011941
-    second: free_13
+      213: 1289908889633037319
+    second: freebuttons2_13
   - first:
-      213: -7617837323195907084
-    second: free_14
+      213: 1210505409907200061
+    second: freebuttons2_14
   - first:
-      213: 3467876396792827902
-    second: free_15
+      213: -7592744397106687238
+    second: freebuttons2_15
   - first:
-      213: 1608922730611987966
-    second: free_16
+      213: -9087468077472990103
+    second: freebuttons2_16
   - first:
-      213: -5033581564710112172
-    second: free_17
+      213: -8473430876106966508
+    second: freebuttons2_17
   - first:
-      213: -4130016818951302995
-    second: free_18
+      213: 8584958864793022268
+    second: freebuttons2_18
   - first:
-      213: 7203673515896535473
-    second: free_19
+      213: 6629086783096908547
+    second: freebuttons2_19
   - first:
-      213: 6162077025218292029
-    second: free_20
+      213: 7879068758934183280
+    second: freebuttons2_20
   - first:
-      213: 7763109817476047783
-    second: free_21
+      213: 8153494367677954749
+    second: freebuttons2_21
   - first:
-      213: -4206953085034969394
-    second: free_22
+      213: -2279020368667904260
+    second: freebuttons2_22
+  - first:
+      213: 5583866894045217715
+    second: freebuttons2_23
+  - first:
+      213: -5699633955959496054
+    second: freebuttons2_24
+  - first:
+      213: 4768981188959016676
+    second: freebuttons2_25
+  - first:
+      213: 4914460907393443341
+    second: freebuttons2_26
+  - first:
+      213: -2563551379439078602
+    second: freebuttons2_27
+  - first:
+      213: -3205254343282188240
+    second: freebuttons2_28
+  - first:
+      213: -7439715729477993638
+    second: freebuttons2_29
+  - first:
+      213: 2129731772008155674
+    second: freebuttons2_30
+  - first:
+      213: -25127794698741841
+    second: freebuttons2_31
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -179,683 +206,705 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: free_0
+      name: freebuttons2_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 224
-        width: 31
-        height: 32
+        y: 48
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 2070a12e36c715bf0800000000000000
-      internalID: -337351728639113470
+      spriteID: 0e50f19a0811d2ae0800000000000000
+      internalID: -1572581450591566368
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: free_1
-      rect:
-        serializedVersion: 2
-        x: 97
-        y: 127
-        width: 60
-        height: 65
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d86d066be2fc61bb0800000000000000
-      internalID: -4965553739594148211
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: free_2
-      rect:
-        serializedVersion: 2
-        x: 159
-        y: 192
-        width: 161
-        height: 64
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: fed8634e298fb6dd0800000000000000
-      internalID: -2491624659041743377
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: free_3
-      rect:
-        serializedVersion: 2
-        x: 319
-        y: 191
-        width: 34
-        height: 30
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 052ba5f37189f4ca0800000000000000
-      internalID: -6030434150411226544
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: free_4
-      rect:
-        serializedVersion: 2
-        x: 334
-        y: 223
-        width: 35
-        height: 21
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 05a08db795fb2ebc0800000000000000
-      internalID: -3755228748222821808
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: free_5
-      rect:
-        serializedVersion: 2
-        x: 354
-        y: 194
-        width: 27
-        height: 27
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 3e446dfaf8846a3b0800000000000000
-      internalID: -5501630112818903837
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: free_6
-      rect:
-        serializedVersion: 2
-        x: 169
-        y: 127
-        width: 53
-        height: 59
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 7d73626124944a940800000000000000
-      internalID: 5306446809137559511
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: free_7
-      rect:
-        serializedVersion: 2
-        x: 229
-        y: 127
-        width: 56
-        height: 65
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: de78ebfab8ef302f0800000000000000
-      internalID: -1007682015698450451
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: free_8
-      rect:
-        serializedVersion: 2
-        x: 309
-        y: 159
-        width: 54
-        height: 24
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 6ca3d019e63b8fe90800000000000000
-      internalID: -6991641134031357242
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: free_9
+      name: freebuttons2_1
       rect:
         serializedVersion: 2
         x: 0
-        y: 95
-        width: 97
-        height: 55
+        y: 32
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ec8de321acec18aa0800000000000000
-      internalID: -6160415447981303602
+      spriteID: 5f6b00d10ed563a40800000000000000
+      internalID: 5347564824689686261
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: free_10
+      name: freebuttons2_2
       rect:
         serializedVersion: 2
-        x: 113
-        y: 63
-        width: 32
-        height: 48
+        x: 16
+        y: 48
+        width: 16
+        height: 15
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 39153a0fc7ff4bf50800000000000000
-      internalID: 6896417841489334675
+      spriteID: 97dffc5313ed04070800000000000000
+      internalID: 8088709233694997881
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: free_11
-      rect:
-        serializedVersion: 2
-        x: 172
-        y: 63
-        width: 38
-        height: 49
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 3c62e422dc9716d40800000000000000
-      internalID: 5575871735612188355
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: free_12
-      rect:
-        serializedVersion: 2
-        x: 239
-        y: 63
-        width: 39
-        height: 52
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 8ef38406b4e8acb30800000000000000
-      internalID: 4308412447922339816
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: free_13
-      rect:
-        serializedVersion: 2
-        x: 296
-        y: 108
-        width: 83
-        height: 39
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b17e99782ae759cf0800000000000000
-      internalID: -246151368097011941
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: free_14
-      rect:
-        serializedVersion: 2
-        x: 9
-        y: 62
-        width: 14
-        height: 26
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 4f3023ac051084690800000000000000
-      internalID: -7617837323195907084
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: free_15
-      rect:
-        serializedVersion: 2
-        x: 39
-        y: 63
-        width: 17
-        height: 25
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: eff4cc3953f502030800000000000000
-      internalID: 3467876396792827902
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: free_16
-      rect:
-        serializedVersion: 2
-        x: 76
-        y: 63
-        width: 13
-        height: 12
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ef5dd25f2ba045610800000000000000
-      internalID: 1608922730611987966
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: free_17
-      rect:
-        serializedVersion: 2
-        x: 297
-        y: 63
-        width: 15
-        height: 33
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 454bf776c30252ab0800000000000000
-      internalID: -5033581564710112172
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: free_18
-      rect:
-        serializedVersion: 2
-        x: 325
-        y: 63
-        width: 19
-        height: 23
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: da0d40eb59b3fa6c0800000000000000
-      internalID: -4130016818951302995
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: free_19
-      rect:
-        serializedVersion: 2
-        x: 359
-        y: 63
-        width: 19
-        height: 24
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 1b9f6e065e698f360800000000000000
-      internalID: 7203673515896535473
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: free_20
-      rect:
-        serializedVersion: 2
-        x: 1
-        y: 0
-        width: 28
-        height: 43
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d396bb60868148550800000000000000
-      internalID: 6162077025218292029
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: free_21
+      name: freebuttons2_3
       rect:
         serializedVersion: 2
         x: 32
-        y: 0
-        width: 33
-        height: 49
+        y: 48
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7a3e10f8f3b1cbb60800000000000000
-      internalID: 7763109817476047783
+      spriteID: ddf60d0e318314c10800000000000000
+      internalID: 2035970164575465437
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: free_22
+      name: freebuttons2_4
       rect:
         serializedVersion: 2
-        x: 69
-        y: 0
-        width: 22
-        height: 43
+        x: 32
+        y: 32
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ec6c1c36576ed95c0800000000000000
-      internalID: -4206953085034969394
+      spriteID: 2290e5bf5958be1b0800000000000000
+      internalID: -5626256430255437534
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: free_23
+      name: freebuttons2_5
       rect:
         serializedVersion: 2
-        x: 105
-        y: 192
-        width: 47
-        height: 61
+        x: 48
+        y: 48
+        width: 16
+        height: 15
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: a0c4b444e4fd3f14192b53d772067113
-      internalID: -2138961970
+      spriteID: ae313e4864aea5e90800000000000000
+      internalID: -7036053879214894102
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: free_24
+      name: freebuttons2_6
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9bde0e7d6d89d140800000000000000
+      internalID: 4744979183817382814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freebuttons2_7
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5baf7494badbae1e0800000000000000
+      internalID: -2167711727258961227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freebuttons2_8
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 48
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6224db8f9e49bf2b0800000000000000
+      internalID: -5549678383182560730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freebuttons2_9
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70cb0f6af2ff09400800000000000000
+      internalID: 329043352927386631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freebuttons2_10
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44c106586a8b0f420800000000000000
+      internalID: 2661830405117713476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freebuttons2_11
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 48
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d6da536566560330800000000000000
+      internalID: 3676721139253171927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freebuttons2_12
       rect:
         serializedVersion: 2
         x: 0
-        y: 160
-        width: 36
-        height: 32
+        y: 16
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 90a4b7c69c7c7e24baa30b71ae5fb5b9
-      internalID: 1397063697
+      spriteID: 148bad63463b1b030800000000000000
+      internalID: 3508782827696732225
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: free_25
+      name: freebuttons2_13
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70c12370d4da6e110800000000000000
+      internalID: 1289908889633037319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freebuttons2_14
       rect:
         serializedVersion: 2
         x: 32
-        y: 160
-        width: 30
-        height: 32
+        y: 16
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: d0da8b7cb9ecd814981edaa8c3e65a46
-      internalID: -1221344485
+      spriteID: d30153cb1449cc010800000000000000
+      internalID: 1210505409907200061
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: free_26
+      name: freebuttons2_15
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af25e1ce23721a690800000000000000
+      internalID: -7592744397106687238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freebuttons2_16
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96c35865ee3d2e180800000000000000
+      internalID: -9087468077472990103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freebuttons2_17
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 32
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41a31d82383586a80800000000000000
+      internalID: -8473430876106966508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freebuttons2_18
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3f245b3a96e32770800000000000000
+      internalID: 8584958864793022268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freebuttons2_19
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 32
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30b6abb8e4f3ffb50800000000000000
+      internalID: 6629086783096908547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freebuttons2_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07d56298a43185d60800000000000000
+      internalID: 7879068758934183280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freebuttons2_21
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbab797ade7072170800000000000000
+      internalID: 8153494367677954749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freebuttons2_22
       rect:
         serializedVersion: 2
         x: 32
-        y: 192
-        width: 30
-        height: 30
+        y: 0
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 7a35c2f5987dcae4e9303ec3559a489c
-      internalID: -1856099823
+      spriteID: cf67ba9ac0b4f50e0800000000000000
+      internalID: -2279020368667904260
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: free_27
+      name: freebuttons2_23
       rect:
         serializedVersion: 2
-        x: 32
-        y: 222
-        width: 30
-        height: 34
+        x: 48
+        y: 16
+        width: 16
+        height: 15
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 237163b3a130c4441aab8d371ae975b0
-      internalID: 402478876
+      spriteID: 3b301a40b51ed7d40800000000000000
+      internalID: 5583866894045217715
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: free_28
+      name: freebuttons2_24
       rect:
         serializedVersion: 2
-        x: 67
-        y: 222
-        width: 29
-        height: 34
+        x: 64
+        y: 0
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 72d4e6d895505c64085df5ce7e972ad7
-      internalID: -753328363
+      spriteID: a82a7417d15d6e0b0800000000000000
+      internalID: -5699633955959496054
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: free_29
+      name: freebuttons2_25
       rect:
         serializedVersion: 2
-        x: 67
-        y: 190
-        width: 29
-        height: 32
+        x: 80
+        y: 16
+        width: 16
+        height: 15
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 2ecdf66b0ceec914fa7c0d0f1fe0b2f1
-      internalID: -2069355704
+      spriteID: 4e61c6ccf13de2240800000000000000
+      internalID: 4768981188959016676
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: free_30
+      name: freebuttons2_26
       rect:
         serializedVersion: 2
-        x: 67
-        y: 160
-        width: 29
-        height: 30
+        x: 96
+        y: 0
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: b3d33135bbbc63a47b22539f3477d126
-      internalID: 1087066276
+      spriteID: d06eab7482ca33440800000000000000
+      internalID: 4914460907393443341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freebuttons2_27
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 16
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63332194a9f6c6cd0800000000000000
+      internalID: -2563551379439078602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freebuttons2_28
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03023ed2826a483d0800000000000000
+      internalID: -3205254343282188240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freebuttons2_29
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5bf39a16f1d0c890800000000000000
+      internalID: -7439715729477993638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freebuttons2_30
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1ac86943c35e8d10800000000000000
+      internalID: 2129731772008155674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freebuttons2_31
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa71ef2676ab6aff0800000000000000
+      internalID: -25127794698741841
       vertices: []
       indices: 
       edges: []
@@ -864,7 +913,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: ad7bd11e4afb42b4d9f0c68ff728845d
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
@@ -874,42 +923,38 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      free_0: -337351728639113470
-      free_1: -4965553739594148211
-      free_10: 6896417841489334675
-      free_11: 5575871735612188355
-      free_12: 4308412447922339816
-      free_13: -246151368097011941
-      free_14: -7617837323195907084
-      free_15: 3467876396792827902
-      free_16: 1608922730611987966
-      free_17: -5033581564710112172
-      free_18: -4130016818951302995
-      free_19: 7203673515896535473
-      free_2: -2491624659041743377
-      free_20: 6162077025218292029
-      free_21: 7763109817476047783
-      free_22: -4206953085034969394
-      free_23: -2138961970
-      free_24: 1397063697
-      free_25: -1221344485
-      free_26: -1856099823
-      free_27: 402478876
-      free_28: -753328363
-      free_29: -2069355704
-      free_3: -6030434150411226544
-      free_30: 1087066276
-      free_31: -417037401
-      free_32: 671354699
-      free_33: 1697829166
-      free_34: 12735861
-      free_35: -68551922
-      free_4: -3755228748222821808
-      free_5: -5501630112818903837
-      free_6: 5306446809137559511
-      free_7: -1007682015698450451
-      free_8: -6991641134031357242
-      free_9: -6160415447981303602
+      freebuttons2_0: -1572581450591566368
+      freebuttons2_1: 5347564824689686261
+      freebuttons2_10: 2661830405117713476
+      freebuttons2_11: 3676721139253171927
+      freebuttons2_12: 3508782827696732225
+      freebuttons2_13: 1289908889633037319
+      freebuttons2_14: 1210505409907200061
+      freebuttons2_15: -7592744397106687238
+      freebuttons2_16: -9087468077472990103
+      freebuttons2_17: -8473430876106966508
+      freebuttons2_18: 8584958864793022268
+      freebuttons2_19: 6629086783096908547
+      freebuttons2_2: 8088709233694997881
+      freebuttons2_20: 7879068758934183280
+      freebuttons2_21: 8153494367677954749
+      freebuttons2_22: -2279020368667904260
+      freebuttons2_23: 5583866894045217715
+      freebuttons2_24: -5699633955959496054
+      freebuttons2_25: 4768981188959016676
+      freebuttons2_26: 4914460907393443341
+      freebuttons2_27: -2563551379439078602
+      freebuttons2_28: -3205254343282188240
+      freebuttons2_29: -7439715729477993638
+      freebuttons2_3: 2035970164575465437
+      freebuttons2_30: 2129731772008155674
+      freebuttons2_31: -25127794698741841
+      freebuttons2_4: -5626256430255437534
+      freebuttons2_5: -7036053879214894102
+      freebuttons2_6: 4744979183817382814
+      freebuttons2_7: -2167711727258961227
+      freebuttons2_8: -5549678383182560730
+      freebuttons2_9: 329043352927386631
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
