@@ -20,7 +20,7 @@ public class CreditsScroll : MonoBehaviour
         rect = GetComponent<RectTransform>();
 
         // เริ่มจากล่างจอ
-        rect.anchoredPosition = new Vector2(-262, -327);
+        rect.anchoredPosition = new Vector2(-0, -600);
     }
 
     void Update()
