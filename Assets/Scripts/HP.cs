@@ -31,6 +31,7 @@ public class HP : MonoBehaviour
         transform.position = respawnPoint.position;
         
         currentHealth = maxHealth;
+        HeartUI.UpdateHearts(currentHealth);
 
         Debug.Log("Respawn!");
     }
