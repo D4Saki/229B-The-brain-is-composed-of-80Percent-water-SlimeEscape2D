@@ -235,8 +235,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: "END CREDIT\n\n---\n\nProject Team\n\nGroup Name: The brain is composed
     of 80% water\n\n Name: Thunyaphon Amphaphan\n Student ID: 1670704889 \n Section:
-    229B No.22\n Role: Level Design, UI\n\n Name: Thakrit Punyachaiwut\n Student
-    ID: 1670705191\n Section: 229B No.24\n Role: Game Design, Programming\n\n Name:
+    229B No.22\n Role: UI, Programming\n\n Name: Thakrit Punyachaiwut\n Student ID:
+    1670705191\n Section: 229B No.24\n Role: Game Design, Level Design\n\n Name:
     Sasipim Sayyot \n Student ID: 1670707163\n Section: 229B No.35\n Role: Assets,
     Testing\n\n---\n\nGame Description\n\nThis is a 2D platformer game where the
     player must survive through challenging levels filled with obstacles such as:\n\nFalling
